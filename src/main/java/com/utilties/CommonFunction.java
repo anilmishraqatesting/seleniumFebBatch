@@ -13,7 +13,7 @@ import com.maindriver.TestBase;
 public class CommonFunction extends TestBase {
 	
 	
-	
+	//This is the code for Ben and victor
 	
 	public static String readPropertiesFile(String key)
 	{
